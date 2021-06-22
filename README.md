@@ -3,7 +3,7 @@ This project is a simple web server written in Typescript using Nodejs and Mongo
 
 # Installation
 ```
-git clone https://github.com/FaztTech/photo-gallery-api
+git clone https://github.com/samuelhurtado20/photos-gallery-api
 cd photo-gallery-api
 npm install
 npm start
